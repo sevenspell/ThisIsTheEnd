@@ -1,6 +1,6 @@
 # This Is The End
 
-This Is The End is a collaboration between Jasper Du and Rita Pang. We aim to provide people with a secure and efficient platform to make it easier for their loved one to take care of their afterlife matters.
+This Is The End is a collaboration between Jasper Du and Rita Pang. We aim to provide people with a simple, secure and efficient platform that makes it easier for their loved ones to take care of their afterlife matters.
 
 
 ### Our Goal
@@ -14,7 +14,7 @@ With a view on making this application useful to the real world, this is our lea
 
 1. React.JS
 
-2. Material UI (template if possible)
+2. Material UI
 
 3. AWS Amplify
 
