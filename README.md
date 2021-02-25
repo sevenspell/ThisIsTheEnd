@@ -1,6 +1,6 @@
 # This Is The End
 
-This Is The End is a collaboration between Jasper Du and Rita Pang. We aim to provide people with a simple, secure and efficient platform that makes it easier for their loved ones to take care of their afterlife matters.
+This Is The End is a collaboration between Jasper Du and Rita Pang. We aim to provide people with a simple, secure and efficient platform that makes it easier for loved ones to take care of their afterlife matters.
 
 
 ### Our Goal
