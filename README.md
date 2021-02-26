@@ -1,4 +1,5 @@
-# This Is The End
+# This Is The End 
+(this project has been moved to Gitlab)
 
 This Is The End is a collaboration between Jasper Du and Rita Pang. We aim to provide people with a simple, secure and efficient platform that makes it easier for loved ones to take care of their afterlife matters.
 
@@ -53,3 +54,5 @@ All sensitive idea-related, business concept-related, process-related or code-re
 * Medium
 
 As part of our learning journey and to build up our own individual profiles, we endeavor to write up articles detailing our learnings related to coding on Medium. 
+
+
